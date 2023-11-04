@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Data Analytics projects
 - 🌱 I’m currently learning **Data analysis tools such as Python, R, Tableau y Power BI.**
-- 🤩 I’m interested in 💻 📚 🙏 👫 🚲 🚶 🐶 ☕ 🍰 🍨 🚗 ✈️ 🚢   🌠
+- 🤩 I’m interested in 💻 📚 🙏 👫 🚴‍♀️ 🚶🐶  ☕ 🍰 🍨 👩‍🍳 🚗 ✈️ 🚢 🌠 🏖️
 
 ## 📊 Data Analytics Projects
 - __R, Tableau, Excel:__ [Bellabeat Case Study](https://github.com/denisseee/bellabeat_case)
