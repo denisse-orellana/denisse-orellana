@@ -1,13 +1,22 @@
 <p align="center"><img width="20%" src="./images/girl-coding.gif"></p> 
 
 <h1 align="center">Hi 👋, I'm Denisse Orellana</h1>
-<h3 align="center">A Full Stack developer and a Data Analyst in progress</h3>
+<h3 align="center">A Full Stack Developer and a Data Analyst in progress</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deniseee&label=Profile%20views&color=0e75b6&style=flat" alt="deniseee" /> </p>
 
 - 🔭 I’m currently working on [Bellabeat Case Study](https://github.com/denisseee/bellabeat_case)
 
 - 🌱 I’m currently learning **Data analysis tools such as Python, R, Tableau y Power BI.**
+
+## 📊 Data Analytics Projects
+- __R, Tableau, Excel:__ [Bellabeat Case Study](https://github.com/denisseee/bellabeat_case)
+- __.CSV, Python, SQL, BigQuery GCP, Trello:__ [Code Challenge](https://github.com/denisseee/code_challenge)
+
+## 👩‍💻 Full Stack Developer Projects
+- __Node.js, Typescript, APIs Rest:__ [Node Hexagonal](https://github.com/denisseee/node-hexagonal-project)
+- __HTML5, CSS, JavaScript, MELI API:__ [Ecommerce App](https://github.com/denisseee/Ecommerce-App)
+- __React, NASA API:__ [APOD App](https://github.com/denisseee/APODApp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
