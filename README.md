@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deniseee&label=Profile%20views&color=0e75b6&style=flat" alt="deniseee" /> </p>
 
 - 🔭 I’m currently working **on Data Analytics projects**
-- 🌱 I’m currently learning **Data analysis languages and tools such as Python, R, Tableau y Power BI.**
+- 🌱 I’m learning **Data analysis languages and tools such as Python, R, Tableau y Power BI.**
 - 🤩 I’m interested in 💻 📚 🙏 👫 🚴‍♀️ 🚶🐶  ☕ 🍰 🍨 👩‍🍳 🚗 ✈️ 🚢 🌠 🏖️
 
 ## 📊 Data Analytics Projects
