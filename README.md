@@ -15,8 +15,9 @@
 
 ## 👩‍💻 Full Stack Developer Projects
 - __Node.js, Typescript, APIs Rest:__ [Node Hexagonal](https://github.com/denisseee/node-hexagonal-project)
-- __HTML5, CSS, JavaScript, MELI API:__ [Ecommerce App](https://github.com/denisseee/Ecommerce-App)
 - __React, NASA API:__ [APOD App](https://github.com/denisseee/APODApp)
+- __HTML5, CSS, JavaScript, MELI API:__ [Ecommerce App](https://github.com/denisseee/Ecommerce-App)
+- __HTML5, CSS, JavaScript, API:__ [Giphy App](https://github.com/denisseee/GiphyApp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
