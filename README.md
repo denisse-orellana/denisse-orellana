@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deniseee&label=Profile%20views&color=0e75b6&style=flat" alt="deniseee" /> </p>
 
-- 🔭 I’m currently working on [Bellabeat Case Study](https://github.com/denisseee/bellabeat_case)
+- 🔭 I’m currently working on Data Analytics projects
 
 - 🌱 I’m currently learning **Data analysis tools such as Python, R, Tableau y Power BI.**
 
