@@ -1,5 +1,5 @@
 <p align="center"><img width="30%" src="./images/girl-coding.gif"></p> 
----
+
 <h1 align="center">Hi 👋, I'm Denisse Orellana</h1>
 <h3 align="center">A Full Stack Developer and a Data Analyst in progress</h3>
 
