@@ -1,6 +1,4 @@
-# Perfil
-
-<p align="left"><img width="20%" src="./images/girl-coding.gif"></p> 
+<p align="center"><img width="20%" src="./images/girl-coding.gif"></p> 
 
 <h1 align="center">Hi 👋, I'm Denisse Orellana</h1>
 <h3 align="center">A Full Stack developer and a Data Analyst in progress</h3>
