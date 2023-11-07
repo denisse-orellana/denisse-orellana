@@ -11,6 +11,7 @@
 
 ## 📊 Data Analytics Projects
 - __R, Tableau, Excel:__ [Bellabeat Case Study](https://github.com/denisseee/bellabeat_case)
+- __Python, SQL, BigQuery GCP:__ [ETL Process](https://github.com/denisseee/ETL_process)
 - __.CSV, Python, SQL, BigQuery GCP, Trello:__ [Code Challenge](https://github.com/denisseee/code_challenge)
 
 ## 👩‍💻 Full Stack Developer Projects
