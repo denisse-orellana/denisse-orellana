@@ -1,7 +1,7 @@
 <p align="center"><img width="30%" src="./images/girl-coding.gif"></p> 
 
 <h1 align="center">Hi 👋, I'm Denisse Orellana</h1>
-<h3 align="center">A Business Manager, Full Stack Developer and a Data Analyst in progress</h3>
+<h3 align="center">A Business Administrator, Full Stack Developer and a Data Analyst in progress</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deniseee&label=Profile%20views&color=0e75b6&style=flat" alt="deniseee" /> </p>
 
