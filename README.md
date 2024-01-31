@@ -13,8 +13,10 @@
 - __R, Tableau, Excel:__ [Bellabeat Case Study](https://github.com/denisseee/bellabeat_case)
 - __API, Python, SQL, BigQuery GCP:__ [ETL Process](https://github.com/denisseee/ETL_process)
 - __.CSV, Python, SQL, BigQuery GCP, Trello:__ [Code Challenge](https://github.com/denisseee/code_challenge)
-- __Power BI, Data Visualization:__ [Template and Dashboard in Power BI](https://github.com/denisse-orellana/dashboard-example)
-- __Qlik, Data Visualization:__ [Case Study of CitiBikes in New York](https://github.com/denisseee/qlik_exercise)
+
+### More Data Visualization
+- __Power BI:__ [Template and Dashboard in Power BI](https://github.com/denisse-orellana/dashboard-example)
+- __Qlik:__ [Case Study of CitiBikes in New York](https://github.com/denisseee/qlik_exercise)
 
 ## 👩‍💻 Full Stack Developer Projects
 - __Node.js, Typescript, APIs Rest:__ [Node Hexagonal](https://github.com/denisseee/node-hexagonal-project)
