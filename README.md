@@ -1,5 +1,3 @@
-<p align="center"><img width="30%" src="./images/girl-coding.gif"></p> 
-
 <h1 align="center">Hi 👋, I'm Denisse</h1>
 <h3 align="center">Business Administrator, Business Intelligence & Data Analyst</h3>
 
